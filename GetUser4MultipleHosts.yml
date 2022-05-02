@@ -1,0 +1,2 @@
+# get designated user for multiple hosts
+ansible all -m command -a 'id' -o
