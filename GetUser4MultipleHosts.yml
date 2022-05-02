@@ -1,2 +1,2 @@
-# get designated user for multiple hosts
+# get designated user for all hosts
 ansible all -a 'id' -o
