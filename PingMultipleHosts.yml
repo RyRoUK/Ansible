@@ -1,2 +1,0 @@
-# ping all hosts
-ansible all -m ping -o
