@@ -1,0 +1,2 @@
+# Get Host information
+ansible "hostname" -m setup | more
