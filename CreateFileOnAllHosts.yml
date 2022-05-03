@@ -1,0 +1,2 @@
+# Create file on all hosts
+ansible all -m file -a 'path=/tmp/test state=touch'
